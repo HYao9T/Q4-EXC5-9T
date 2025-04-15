@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	bottom: 0;
+	padding: 0;
+	background-color: #387780;
+	font-family: sans-serif;
+}
+
+h1{
+	color: #444444;
+	text-align: center;
+}
+
+#inputChoice{
+	text-align: center;
+	color: #444444;
+}
+
+p{
+	color: #444444;
+	text-align: center;
+}
+
+.container{	
+	color: #444444;
+	margin-top: 10%;
+	background-color: #D2CCA1;
+	max-width: 500px;
+	height: 400px;
+	border-radius: 15px;
+	padding: 5%;
+}
+
+footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	border-radius: 3px;
+	background-color: #D2CCA1;
+	text-align: center;
+}
+
+footer a{
+	color: #444444;
+}
